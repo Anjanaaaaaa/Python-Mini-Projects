@@ -1,6 +1,0 @@
-Dataset: Daily temperature data for a city (CSV from Kaggle or OpenWeather API)
-Skills: Date handling, data cleaning, basic plotting
-Tasks:
-- Hottest and coldest days
-- Monthly average temperatures
-- Plot temperature trends over a year
