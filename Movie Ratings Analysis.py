@@ -1,10 +1,3 @@
-Dataset: IMDb Top 250 movies or TMDB dataset (Kaggle has them)
-Skills: Reading CSV, filtering, sorting, grouping
-Tasks:
-- Find the top 10 highest-rated movies
-- Calculate average rating per genre
-- Find the year with the most movies in the dataset
-
 # Movie Ratings Analysis - Mini Project 1
 
 import pandas as pd
