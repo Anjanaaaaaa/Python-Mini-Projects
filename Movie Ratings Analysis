@@ -4,3 +4,5 @@ Tasks:
 - Find the top 10 highest-rated movies
 - Calculate average rating per genre
 - Find the year with the most movies in the dataset
+
+import pandas as pd
