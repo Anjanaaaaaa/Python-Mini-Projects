@@ -1,6 +1,0 @@
-Dataset: WHO or Our World in Data
-Skills: Data filtering, time series basics, visualization
-Tasks:
-- Show the rise and fall of cases in a country
-- Find the month with the highest new cases
-- Compare two countries’ trends side by side
