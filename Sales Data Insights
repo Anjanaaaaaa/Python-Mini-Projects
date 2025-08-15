@@ -1,6 +1,0 @@
-Dataset: Superstore Sales (free on Kaggle)
-Skills: Pandas basics, groupby, descriptive stats
-Tasks:
-- Which region has the highest sales?
-- Top 5 products by profit
-- Monthly sales trend visualization
